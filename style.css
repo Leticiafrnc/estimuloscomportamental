@@ -5,6 +5,35 @@
   box-sizing: border-box;
 }
 
+.header-image{
+  background-image: url('./assets/sobre.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+}
+.header-image1{
+  background-image: url('./assets/image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+}
+.header-image2{
+  background-image: url('./assets/vanessa-bucceri-gDiRwIYAMA8-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+}
+.header-image3{
+  background-image: url('./assets/sobre.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+}
+
 
 ul {
   list-style: none;
